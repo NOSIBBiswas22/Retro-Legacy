@@ -992,7 +992,11 @@ h3 > a { color: inherit; }
    */
 
   .footer-list { width: calc(33.33% - 26.66px); }
-
+  
+  .copyright p{
+    font-size: medium;
+  }
+  
   .copyright,
   .footer-bottom-list { margin-bottom: 0; }
 
